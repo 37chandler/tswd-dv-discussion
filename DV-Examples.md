@@ -27,7 +27,7 @@ In this file we have data visualizations that will form the background of some d
 
 ![Road Fatalities](images/road_fatalities.jpeg)
 
-* What visual encodings is the author using use of? 
+* What visual encodings is the author making use of? 
 * Do you feel like the "small multiples" are effective?
 
 ## Example 4
